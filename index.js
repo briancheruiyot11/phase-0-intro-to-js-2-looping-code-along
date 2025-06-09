@@ -17,5 +17,4 @@ function countDown(startNumber) {
     currentNumber--;
   }
 }
-
 countDown(10);
